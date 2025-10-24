@@ -29,7 +29,7 @@ I cover a range of topics including:
 ---
 
 ### 📅 Progress
-✅ Day 1 – Day 28 completed  
+✅ Day 1 – Day 29 completed  
 🚀 Still going strong — more coming soon!
 
 ---
