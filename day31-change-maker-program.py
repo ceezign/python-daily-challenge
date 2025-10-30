@@ -46,7 +46,7 @@ def make_change_naira(purchase_price, payment_amount):
         result += f"\n- {count} x {name}"
     return result
 
-print(make_change(1375.50, 2000))
+print(make_change_naira(1375.50, 2000))
 
 
 
